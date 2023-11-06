@@ -1,0 +1,21 @@
+
+.carousel {
+    max-width:1920px;
+    max-height:1100px;
+  }
+
+.body {background-color: #335589;}
+
+.navbar {background-color: #1b2748;}
+ 
+
+.carousel-caption {
+    bottom: 25rem;
+
+}
+
+.display-1 {color: #1b2748;
+background-color: rgba(255, 255, 255, 0.479);}
+
+.pe {color: #1b2748;
+    background-color: rgba(255, 255, 255, 0.479);}

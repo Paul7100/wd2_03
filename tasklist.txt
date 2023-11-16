@@ -1,0 +1,2 @@
+- galerie do menu
+- z home na <img>

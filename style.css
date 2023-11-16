@@ -1,42 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+* {
+  font-family: "Poppins Regular", sans-serif;
+}
+
+.body {
+  background-color: #335589;
+}
 
 .carousel {
-    max-width:1920px;
-    max-height:1000px;
-  }
+  max-width: 1920px;
+  max-height: 1000px;
+}
 
-.body {background-color: #335589;}
+.navbar {
+  background-color: #1b2748;
+}
 
-.navbar {background-color: #1b2748;}
- 
-.carousel-item {max-width: 1920px;
-max-height: 1000px;}
+.carousel-item {
+  max-width: 1920px;
+  max-height: 1000px;
+}
 
 .carousel-caption {
-    bottom: 10rem;
+  bottom: 10rem;
 
 }
 
- .a {text-decoration: none; color: white;}
+.a {
+  text-decoration: none;
+  color: white;
+}
 
-.display-1 {color: #1b2748;
-background-color: rgba(255, 255, 255, 0.479);}
-
-.pe {color: #1b2748;
-    background-color: rgba(255, 255, 255, 0.479);}
-
-    .fa {
-      padding: 20px;
-      font-size: 30px;
-      width: 50px;
-      text-align: center;
-      text-decoration: none;
-      margin: 5px 2px;
-    }
+.ab img {
+max-width: 450px;
+max-height: 1000px;
 
 
-    .btn {background-color: #272B39}
+}
 
-    .card-header {background-color: #1b2748;
-    color: white;}
+.display-1 {
+  color: #1b2748;
+  background-color: rgba(255, 255, 255, 0.479);
+}
+
+.pe {
+  color: #1b2748;
+  background-color: rgba(255, 255, 255, 0.479);
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
 
 
+.btn {
+  background-color: #272B39
+}
+
+.card-header {
+  background-color: #1b2748;
+  color: white;
+}

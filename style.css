@@ -32,12 +32,23 @@
   color: white;
 }
 
+.aa {text-decoration: none;
+color: black;
+font: bold;}
+
 .ab img {
 max-width: 450px;
 max-height: 1000px;
 
 
 }
+
+.ac img {
+  max-width: 300px;
+  max-height: 500px;
+  
+  
+  }
 
 .display-1 {
   color: #1b2748;
@@ -67,3 +78,4 @@ max-height: 1000px;
   background-color: #1b2748;
   color: white;
 }
+
